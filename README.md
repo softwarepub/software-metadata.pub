@@ -10,6 +10,8 @@ run by a [consortium](#consortium) of research organizations within the [Helmhol
 
 ### HERMES: Helmholtz Rich Metadata Software Publication
 
+![HERMES logo](hermes-logo.png)
+
 > **HERMES** workflows enable automated publication of rich research software metadata and artifacts to publication repositories using open source tooling.
 
 - Learn more on the [HERMES website](https://hermes.software-metadata.pub).
