@@ -1,5 +1,3 @@
-# Software Metadata Publication
-
 Welcome. 
 This is the website for the virtual Software Metadata Publication organization (*software-metadata.pub*).
 
@@ -10,7 +8,7 @@ run by a [consortium](#consortium) of research organizations within the [Helmhol
 
 ### HERMES: Helmholtz Rich Metadata Software Publication
 
-![HERMES logo](hermes-logo.png)
+[![HERMES logo](hermes-logo.png)](https://hermes.software-metadata.pub)
 
 > **HERMES** workflows enable automated publication of rich research software metadata and artifacts to publication repositories using open source tooling.
 
